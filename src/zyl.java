@@ -1,2 +1,4 @@
-public class zyl {我试试试试
-}1231231
+public class zyl {
+    public static void main(String[] args) {
+        System.out.println(123);
+    }}
