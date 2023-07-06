@@ -3,5 +3,6 @@ public class Main {
         System.out.println("rgergergerld!");
         sout
             saefsef
+            awdawdaw
     }
 }
